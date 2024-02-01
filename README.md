@@ -13,7 +13,7 @@
 </p>
 
 # 👯Time
-Back-end: Vitória Vicente
+<b>Back-end: Vitória Vicente
 <p align="justify">
   <a href="https://instagram.com/_vihvicente" >
     <img src="https://skillicons.dev/icons?i=instagram" />  
@@ -35,5 +35,16 @@ Front-end: Letícia Policarpo
    </a>
 </p>
 
+##
+
+Banco de dados: Sabrina Oliveira
+<p align="justify">
+  <a href="https://instagram.com/sabrinaa.oliveiira" >
+    <img src="https://skillicons.dev/icons?i=instagram" />  
+  </a>
+   <a href="https://www.linkedin.com/in/sabrina-oliveira-858048201/" >
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+   </a>
+</p>
 
 
