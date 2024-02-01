@@ -6,21 +6,34 @@
 
 
 ## 🚀 Tecnologias
-<div>
-   <img align="center" alt="Vih-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Vih-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vih-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vih-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap" />
+  </a>
+</p>
 
 # 👯Time
 Back-end: Vitória Vicente
+<p align="justify">
+  <a href="https://instagram.com/_vihvicente" >
+    <img src="https://skillicons.dev/icons?i=instagram" />  
+  </a>
+   <a href="https://www.linkedin.com/in/vit%C3%B3ria-vicente-94955520b/" >
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+</p>
 
-<a href="https://instagram.com/_vihvicente" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
 ##
 
 Front-end: Letícia Policarpo
+<p align="justify">
+  <a href="https://instagram.com/leticiaplcp" >
+    <img src="https://skillicons.dev/icons?i=instagram" />  
+  </a>
+   <a href="https://www.linkedin.com/in/leticiaplcp/" >
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+   </a>
+</p>
 
-<a href="https://instagram.com/leticiaplcp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
 
